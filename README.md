@@ -11,7 +11,7 @@ Features
  View Records – Retrieve and display stored doctor, patient, and appointment data from CSV files.
  Persistent Storage – Data is saved in CSV format, allowing easy retrieval even after restarting the program.
 
-🛠️ Technologies Used
+Technologies Used
 C++ for object-oriented programming
 File handling (CSV) for data persistence
 Vectors & Classes for efficient data storage and manipulation
